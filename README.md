@@ -26,4 +26,4 @@ Through this hands-on approach, the project intends to provide a comprehensive u
 
 ## Table of contenet
 
-1. [Pre-requsites]('docs/Pre-requsites.md')
+1. [Pre-requisites](docs/Pre-requisites.md)
