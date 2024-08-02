@@ -1,5 +1,5 @@
 # Firewall Project
-Impementing pfSense firewall in virtual network.
+    Installing and configuring pfSense firewall on virtual network.
 
 ## Introduction
 
