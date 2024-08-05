@@ -36,6 +36,7 @@ Download the following softwares
    *   [**Windows 7/10:**](https://www.microsoft.com/en-in/software-download/windows10) Obtain installation media for Windows. These VMs will simulate client machines.
    *   [**Arch Linux:**](https://archlinux.org/download) (Open-Source, Free) - Advanced Linux distribution for experienced users (optional).
    *   [**PfSense Firewall:**](https://www.pfsense.org/download) (Open-Source, Free) - This firewall software will be installed within a VM and act as both a router and firewall for your simulated network.
+   *   [**Metasploitable 2:**](https://sourceforge.net/projects/metasploitable/) (Open-Source, Free) - A test environment provides a secure place to perform penetration testing and security research. You can use this instrad of setting all the things. It consist of pre-installed services including HTTP, HTTPS, RDP, FTP, DNS, IMAP, etc.
 
 ### Hardware Requirements
 This project is designed to run on a personal computer with the following minimum specifications:
@@ -44,13 +45,19 @@ This project is designed to run on a personal computer with the following minimu
 *   **RAM:** 8 GB or more (additional RAM allows for more complex virtual machines)
 *   **Storage:** 20 GB or more (space for the host operating system, virtual machines, and project files)
 
-Configuration of my laptop is...
-1.  **CPU:** Intel core i3
-2.  **GPU:** AMD Randon 
-3.  **RAM:** 8 Gb
-4.  **Storage:** 256 Gb SSD (nvme) + 1 TB HDD
-5.  **OS:** Kali Linux
+Configuration of my HP Notebook is...
+1.  **CPU:** Intel i3-5005U (4) @ 1.900GHz
+2.  **GPU:** Intel HD Graphics 5500
+3.  **GPU:** AMD ATI Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon 520 Mobile
+4.  **RAM:** 8 GB
+5.  **Storage:** 256 GB SSD + 1 TB HDD
+6.  **OS:** Kali GNU/Linux Rolling x86_64 24.3
 
 
 ## Conclusion
-By gathering the necessary software and hardware, and familiarizing yourself with the listed concepts, you'll be well-prepared to embark on this firewall implementation project
+By gathering the necessary software and hardware, and familiarizing yourself with the listed concepts, you'll be well-prepared to embark on this firewall implementation project.
+
+<div style='width:100%; display:flex; justify-content:space-between; algin-items:center' > 
+    <button style='width:20%; height:30px; border-radius:20px; cursor:pointer' >Previous</button>
+    <button style='width:20%; height:30px; border-radius:20px; cursor:pointer' >Next</button>
+</div>
