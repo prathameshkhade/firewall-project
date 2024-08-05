@@ -32,10 +32,10 @@ Download the following softwares
     *   [QEMU](https://www.qemu.org/download/#macos) for MacOS
   
 2. **Guest Operating Systems (VMs):** You required the ISO file of the OS for installing the OS virtually. Download any of the following OS as per your system compatibility
+   *   [**PfSense Firewall:**](https://www.pfsense.org/download) (Open-Source, Free) - This firewall software will be installed within a VM and act as both a router and firewall for your simulated network.
    *    [**Ubuntu Server 24.04 LTS**](https://ubuntu.com/download/server): (Open-Source, Free) - A popular Linux server distribution. This project will configure FTP, SSH, and email servers and many more on this VM.
    *   [**Windows 7/10:**](https://www.microsoft.com/en-in/software-download/windows10) Obtain installation media for Windows. These VMs will simulate client machines.
    *   [**Arch Linux:**](https://archlinux.org/download) (Open-Source, Free) - Advanced Linux distribution for experienced users (optional).
-   *   [**PfSense Firewall:**](https://www.pfsense.org/download) (Open-Source, Free) - This firewall software will be installed within a VM and act as both a router and firewall for your simulated network.
    *   [**Metasploitable 2:**](https://sourceforge.net/projects/metasploitable/) (Open-Source, Free) - A test environment provides a secure place to perform penetration testing and security research. You can use this instrad of setting all the things. It consist of pre-installed services including HTTP, HTTPS, RDP, FTP, DNS, IMAP, etc.
 
 ### Hardware Requirements
